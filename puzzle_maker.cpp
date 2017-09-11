@@ -1,3 +1,6 @@
+// Given a set of words required, board size and disallowed words, this program creates a word find board. If empty spaces are left
+//they are randomly populated by the alphabet
+
 #include <iostream>
 #include <fstream>
 #include <vector>
