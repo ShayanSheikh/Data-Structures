@@ -1,0 +1,11 @@
+load hansel_and_gretel.txt 3 ignore_punctuation
+
+print "else"
+print "nothing"
+print "footplank"
+print "their"
+print "comforted"
+
+generate "footplank" 4 random
+
+quit

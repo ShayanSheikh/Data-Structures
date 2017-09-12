@@ -1,0 +1,36 @@
+Loaded hansel_and_gretel.txt with window = 3 and parse method = ignore_punctuation
+
+else (1)
+else gretel (1)
+
+nothing (4)
+nothing but (1)
+nothing else (1)
+nothing that (1)
+nothing to (1)
+
+footplank (1)
+footplank and (1)
+
+their (17)
+their beds (1)
+their eyes (1)
+their father (3)
+their fathers (4)
+their hands (1)
+their legs (1)
+their lives (1)
+their mother (1)
+their piece (1)
+their plump (1)
+their stepmother (1)
+their way (1)
+
+comforted (4)
+comforted dear (1)
+comforted her (1)
+comforted his (2)
+
+footplank and gretel that we
+
+
