@@ -1,3 +1,5 @@
+//WORK OF PROF. HOLZBAUER RPI
+
 // mtrand.cpp, see include file mtrand.h for information
 
 #include "mtrand.h"
